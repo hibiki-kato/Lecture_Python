@@ -1,11 +1,11 @@
 # Welcome to the Python!
 
-Here's the list of lessons.
+## List of lessons
 
-| Lesson | en | ja |
-|--------|----|----|
-| Lesson 1 |  |  |
-| Lesson 2 |  |  |
-| Lesson 3 |  |  |
-| Lesson 4 |  |  |
-| Lesson 5 |  |  |
+| Lesson | summary | ja | en |
+|:--------:|---|:----:|:----:|
+| Lesson 1 | introduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hibiki-kato/Lecture_Python/blob/main/src/ja/lecture0_data.ipynb) ||
+| Lesson 2 | control flow |  |  |
+| Lesson 3 | data structure | |  |
+| Lesson 4 | modules ||  |
+| Lesson 5 | libraries ||  |
